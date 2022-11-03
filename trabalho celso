@@ -1,0 +1,30 @@
+<html>
+
+<head>
+    <title>Sobre mim</title>
+</head>
+<body>
+    <center><h1>Autobiografia</h1> </center>
+<p>
+        Eu me chamo chamo Mateus Mendes de Freitas, tenho conhecimento básico em html5,Css3,e um conhecimento intermediário em python,e conhecimento básico em Git Hub.<br>
+    Inicialmente pretendo fazer estágio em alguma empresa de informática nesse ano nas férias,pretendo trabalhar com desenvolvimento web ou com POO em python(Programação Orientado a Objetos).
+<br> Mas o que eu tenho mais interesse, é fundar uma empresa de Gerenciamento de Hardware e Software,produzir,e criar sites,trabalhar com hospedagem e domínio de sites,desenvolvimento de sistemas para empresas,desenvolvimento de componentes de Hardware e manutenção de dispositivos eletrônicos.
+<br>Hobby tocar bateria,jogar xadrez,programar em python e entre outros.<br>
+
+<center><img src="https://img2.gratispng.com/20180519/gsh/kisspng-chess-piece-chessboard-chess-basics-lewis-chessmen-5b00a9cbdb4937.1044768015267701238982.jpg " alt="" width=" 300px;"height="250px;">
+
+
+</p> 
+<br>
+        <b>Email: mateusmendesdefreitas17@gmail.com</b>
+        <br>
+        <br>
+
+        <img src="drum.png" width="310px;" height="300px;" > <br><br>
+        <b> Clique na imagem abaixo </b><br>
+	
+
+        <a href="helloworld2.html"> <img src=" seta2.png "></a>
+
+</body>
+</html>
